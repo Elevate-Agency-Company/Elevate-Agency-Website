@@ -1,4 +1,4 @@
-import LanguageSwitcher from '@/components/LanguageSwitcher'
+import LanguageSwitcher from '../../components/LanguageSwitcher'
 import { getDictionary } from './dictionaries'
 
 export default async function HomePage({ params }) {

@@ -1,6 +1,6 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { i18n } from '@/lib/i18n-config'
+import { i18n } from '../../lib/i18n-config'
 
 
 const geistSans = Geist({
